@@ -9,23 +9,23 @@ EnerSaviyor is an advanced, production-ready enterprise energy analytics platfor
 
 ### 1. Main Dashboard
 The central command center providing live telemetry streams, total energy tracking, estimated waste metrics, and AI-predicted monthly savings.
-![Dashboard](path/to/Screenshot_25-7-2026_13452_enersaviyor.com.jpeg)
+![Dashboard](Screenshot_25-7-2026_13452_enersaviyor.com.jpeg)
 
 ### 2. Executive Overview
 High-level financial and carbon reduction insights tailored for executive decision-making, tracking worst-performing sites and top savings opportunities.
-![Executive Overview](path/to/Screenshot_25-7-2026_1357_enersaviyor.com.jpeg)
+![Executive Overview](Screenshot_25-7-2026_1357_enersaviyor.com.jpeg)
 
 ### 3. Automated Reports
 Comprehensive energy performance and waste detection reporting suite with seamless operational analytics and PDF export capabilities.
-![Reports](path/to/Screenshot_25-7-2026_13541_enersaviyor.com.jpeg)
+![Reports](Screenshot_25-7-2026_13541_enersaviyor.com.jpeg)
 
 ### 4. AI Alerts & Anomaly Log
 Real-time automated detection system tracking energy spikes, unexpected overnight loads, and critical threshold breaches.
-![Alerts](path/to/Screenshot_25-7-2026_13522_enersaviyor.com.jpeg)
+![Alerts](Screenshot_25-7-2026_13522_enersaviyor.com.jpeg)
 
 ### 5. Client Management
 Secure multi-tenant administrative control panel for managing organizational accounts, trial accesses, and active platform subscriptions.
-![Client Management](path/to/Screenshot_25-7-2026_13423_enersaviyor.com.jpeg)
+![Client Management](Screenshot_25-7-2026_13423_enersaviyor.com.jpeg)
 
 ---
 
