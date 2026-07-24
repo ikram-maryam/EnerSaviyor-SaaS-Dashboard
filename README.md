@@ -1,6 +1,8 @@
 #  EnerSaviyor
 ### AI-Powered Energy Intelligence & SaaS Platform
 
+[![Live Platform](https://img.shields.io/badge/_View_Live_Platform-Visit_Site-green?style=for-the-badge)](https://enersaviyor.com)
+
 EnerSaviyor is an advanced, production-ready enterprise energy analytics platform designed to monitor real-time power consumption, detect AI-driven anomalies, manage multi-tenant clients, and generate automated sustainability reports.
 
 ---
@@ -25,7 +27,7 @@ Real-time automated detection system tracking energy spikes, unexpected overnigh
 
 ### 5. Client Management
 Secure multi-tenant administrative control panel for managing organizational accounts, trial accesses, and active platform subscriptions.
-![Client Management](Screenshot_25-7-2026_13423_enersaviyor.com.jpeg)
+![Client Management](Screenshot_25-7-2026_13423_enersaviyor.com.jpg)
 
 ---
 
